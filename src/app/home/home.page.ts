@@ -20,7 +20,8 @@ export class HomePage {
    calculettor(val_1,val_2) {
     let val_cal = val_1 + val_2 ;
     console.log('ตัวตั้ง ',val_1,'ตัวบวก ',val_2,'ผลลัพ ',val_cal);
- 
+    
+      let url = 'https://github.com/Arm-hunter/ionic_project.git';
   }
 
 
